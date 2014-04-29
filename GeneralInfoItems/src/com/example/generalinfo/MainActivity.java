@@ -145,7 +145,7 @@ public class MainActivity extends ActionBarActivity {
                                          		i = 45;
                                          	}else if(EXTRA_MESSAGE.equals("Entropy")){
                                          		i = 46;
-                                         	}else if(EXTRA_MESSAGE.equals("Executioner’s Calling")){
+                                         	}else if(EXTRA_MESSAGE.equals("Executionerï¿½s Calling")){
                                          		i = 47;
                                          	}else if(EXTRA_MESSAGE.equals("Explorers Ward")){
                                          		i = 48;
@@ -161,7 +161,7 @@ public class MainActivity extends ActionBarActivity {
                                          		i = 53;
                                          	}else if(EXTRA_MESSAGE.equals("Forbidden Idol")){
                                          		i = 54;
-                                         	}else if(EXTRA_MESSAGE.equals("Frost Queen’s Claim")){
+                                         	}else if(EXTRA_MESSAGE.equals("Frost Queenï¿½s Claim")){
                                          		i = 55;
                                          	}else if(EXTRA_MESSAGE.equals("Frostfang")){
                                          		i = 56;
@@ -187,8 +187,6 @@ public class MainActivity extends ActionBarActivity {
                                          		i = 66;
                                          	}else if(EXTRA_MESSAGE.equals("Haunting Guise")){
                                          		i = 67;
-                                         	}else if(EXTRA_MESSAGE.equals("Head of KhaZix")){
-                                         		i = 68;
                                          	}else if(EXTRA_MESSAGE.equals("Health Potion")){
                                          		i = 69;
                                          	}else if(EXTRA_MESSAGE.equals("Hexdrinker")){
@@ -215,7 +213,7 @@ public class MainActivity extends ActionBarActivity {
                                          		i = 80;
                                          	}else if(EXTRA_MESSAGE.equals("Last Whisper")){
                                          		i = 81;
-                                         	}else if(EXTRA_MESSAGE.equals("Liandry’s Torment")){
+                                         	}else if(EXTRA_MESSAGE.equals("Liandryï¿½s Torment")){
                                          		i = 82;
                                          	}else if(EXTRA_MESSAGE.equals("Lich Bane")){
                                          		i = 83;
@@ -249,7 +247,7 @@ public class MainActivity extends ActionBarActivity {
                                          		i = 97;
                                          	}else if(EXTRA_MESSAGE.equals("Muramana")){
                                          		i = 98;
-                                         	}else if(EXTRA_MESSAGE.equals("Nashor’s Tooth")){
+                                         	}else if(EXTRA_MESSAGE.equals("Nashorï¿½s Tooth")){
                                          		i = 99;
                                          	}else if(EXTRA_MESSAGE.equals("Needlessly Large Rod")){
                                          		i = 100;
@@ -289,7 +287,7 @@ public class MainActivity extends ActionBarActivity {
                                          		i = 117;
                                          	}else if(EXTRA_MESSAGE.equals("Rabadons Deathcap")){
                                          		i = 118;
-                                         	}else if(EXTRA_MESSAGE.equals("Randuin’s Omen")){
+                                         	}else if(EXTRA_MESSAGE.equals("Randuinï¿½s Omen")){
                                          		i = 119;
                                          	}else if(EXTRA_MESSAGE.equals("Ravenous Hydra")){
                                          		i = 120;
